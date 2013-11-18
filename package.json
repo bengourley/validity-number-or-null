@@ -1,6 +1,6 @@
 {
   "name": "validity-number-or-null",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Validity style validator to ensure a property is either null or numeric (and not NaN)",
   "main": "validator.js",
   "directories": {
